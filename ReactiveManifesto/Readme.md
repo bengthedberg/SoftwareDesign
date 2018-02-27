@@ -1,3 +1,3 @@
 # Reactive Manifesto 
 
-Everything is a stream
+Everything is a stream 
