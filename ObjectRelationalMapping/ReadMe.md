@@ -1,8 +1,7 @@
 # Object Relational Mapping
 
 The ORM handles how you can persist the state of the business entities as well as how you can retrieve them from a data store. 
-These required enterprise patterns 
-resides in the infrastructure code
+These required enterprise patterns resides in the infrastructure code
 
 ## Unit of Work 
 The Unit of Work pattern is designed to maintain a list of business objects that have been changed by a business transaction, whether that be adding, removing, or updating. The Unit of Work then coordinates the persistence of the changes as one atomic action. If there are problems, the entire transaction rolls back.
