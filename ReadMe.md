@@ -2,7 +2,7 @@
 
 Notes and examples of Software Design Architecture, Pattern and Practice.
 
-* [**Application Layered Design**](ApplicationLayeredDesign/ReadMe.md) - architect a software system using a layered design with [seperation of concern](.).
+* [**Application Layered Design**](ApplicationLayeredDesign/ReadMe.md) - architect software system using a layered design with [seperation of concern](.).
 * [**Domain Driven Design**](DomainDrivenDesign/ReadMe.md) - 
 * [**Test Driven Design**](TestDrivenDevelopment/ReadMe.md) -
 * [**SOLID Principles**](SOLID/ReadMe.md) - 

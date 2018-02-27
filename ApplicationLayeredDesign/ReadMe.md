@@ -1,10 +1,10 @@
 # Application Layered Design
 
-A multitier architecture or multilayered architecture is a system design that seperate the software into layers based on their responsibilities. client–server architecture in which presentation, for example application processing, and data management functions are physically separated. 
+A multitier architecture or multilayered architecture is a system design that seperate the software into layers based on their responsibilities. 
 
-N-tier application architecture provides a model by which developers can create flexible and reusable applications. By segregating an application into tiers, developers acquire the option of modifying or adding a specific layer, instead of reworking the entire application. A three-tier architecture is typically composed of a presentation tier, a domain logic tier, and a data storage tier.
+An application layered architecture provides a model by which developers can create flexible and reusable applications. By segregating an application into tiers, developers acquire the option of modifying or adding a specific layer, instead of reworking the entire application. A three-tier architecture is typically composed of a presentation tier, a domain logic tier, and a data storage tier.
 
-There is no one size fits all for what layer you should implement but generally these are the basic ones:
+There is no one silver bullet solution for what layers you should implement but generally these are the basic ones:
 
 * **Domain Model Layer**:   
 This layer is also called business logic layer and its responsiility is to implement the business logic of the application. 
