@@ -20,5 +20,5 @@ The ISP is all about splitting the methods of a contract into groups of responsi
 ## Dependency Inversion Principle[](#DIP) (DIP) 
 The DIP is all about isolating your classes from concrete implementations and having them depend on abstract classes or interfaces. It promotes the mantra of coding to an interface rather than an implementation, which increases flexibility within a system by ensuring you are not tightly coupled to one implementation.
 
-## Dependency injection (Di) and inversion of Control (ioC) 
+## Dependency Injection (DI) and Inversion of Control (IoC) 
 Closely linked to the DIP are the DI principle and the IOC principle. DI is the act of supplying a low level or dependent class via a constructor, method, or property. Used in conjunction with DI, these dependent classes can be inverted to interfaces or abstract classes that will lead to loosely coupled systems that are highly testable and easy to change. In IoC, a system’s flow of control is inverted compared to procedural programming. An example of this is an IoC container, whose purpose is to inject services into client code without having the client code specifying the concrete implementation. The control in this instance that is being inverted is the act of the client obtaining the service
