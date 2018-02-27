@@ -13,4 +13,4 @@ Noda Time uses a number of key concepts:
 * **Period** – a period of time expressed in fields (e.g. 5 months 3 days 6 hours), 
 * **Chronology** – a pluggable calendar system, Time Zones updated based on the tz database.
 
-[**Joda Time**](http://www.joda.org/joda-time/)
+It is based on [**Joda Time**](http://www.joda.org/joda-time/)
