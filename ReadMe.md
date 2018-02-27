@@ -37,7 +37,7 @@ Notes and examples of Software Design Architectures, Pattern, Practice and much 
 * [**Versioning**](Versioning/ReadMe.md)
 * [**Internationalisation**](Internationalisation/ReadMe.md)
 * [**Configuration**](Configuration/ReadMe.md)
-* [++Date and Time**](DateTime/ReadMe.md)
+* [**Date and Time**](DateTime/ReadMe.md)
 * [**Cryptography**](Cryptography/ReadMe.md)
 
 ## Testing
